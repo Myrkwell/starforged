@@ -1,6 +1,6 @@
-I prefer this original standalone sytem for Starforged created by DiceT over the official hybrid ironsworn/starforged system. Since the creator has ceased development I decided to fork his work and continue using it and making changes as needed for my personal campaign.
+I prefer this original standalone sytem for Starforged created by [DiceT](https://github.com/DiceT/starforged) over the official hybrid Ironsworn/Starforged system. Since the creator has ceased development I decided to fork his work and continue using it and making changes as needed for my needs.
 
-Excerpts from original text:
+Excerpts from [DiceT's](https://github.com/DiceT) original text:
 >This system, designed to play Ironsworn: Starforged, features robust content generation utilities meant to increase your immersion while also getting you to the gameplay faster. The core system features approximately 260 tables and is designed to be easily expandable simply by dropping new tables into the designated folders. While this system is currently in its first release state, it is feature-rich and allows you to play Starforged to its full extent. This system is unofficial.
 
 >![image](https://user-images.githubusercontent.com/84727873/124493173-52878700-dd83-11eb-83d6-acc927b4e714.png)
