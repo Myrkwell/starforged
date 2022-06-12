@@ -74,8 +74,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Myrkwell/starforged/0.9.1/system.json",
-  "download": "https://github.com/Myrkwell/starforged/archive/refs/tags/0.9.1.zip",
+  "manifest": "https://raw.githubusercontent.com/Myrkwell/starforged/v0.9.1/system.json",
+  "download": "https://github.com/Myrkwell/starforged/archive/refs/tags/v0.9.1.zip",
   "protected": false,
   "gridDistance": 0.5,
   "gridUnits": "LY"
