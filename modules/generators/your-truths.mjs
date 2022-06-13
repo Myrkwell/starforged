@@ -1,9 +1,13 @@
 import { rollFromFolder } from "./core-generator.mjs";
+import { starforged } from 'dataforged';
 
 export async function generateYourTruths() {
     let result;
     let content;
     let subcontent;
+    let dataforgedSettingTruths;
+
+    dataforgedSettingTruths = starforged["Setting Truths"];
     
     let folder = await Folder.create({
         name: "Your Truths", 
